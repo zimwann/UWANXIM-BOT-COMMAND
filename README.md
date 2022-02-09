@@ -2,7 +2,7 @@
 
 ## Table of contents
 * [Inside a Modmail thread](#inside-a-modmail-thread)
-* [Anywhere on the inbox server](#anywhere-on-the-inbox-server)
+* [Anywhere on the inbox server](#anywhere-on-the-inbox-server) a
 
 ## Inside a Modmail thread
 These commands can only be used inside a Modmail thread's channel on the inbox server.
