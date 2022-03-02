@@ -1,7 +1,6 @@
 # 🤖 Commands
 
 ## Table of contents 
-
 * [Inside a Modmail thread](#inside-a-modmail-thread)
 * [Anywhere on the inbox server](#anywhere-on-the-inbox-server) 
 
@@ -141,6 +140,3 @@ Check if the specified user is blocked.
 
 ### `!role <role name>`
 (Outside a modmail thread) Change your default display role to any role you currently have
-
-### `!version`
-Show the Modmail bot's version.
