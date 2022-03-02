@@ -31,7 +31,7 @@ Close the Modmail thread without notifying the user that it was closed.
 ### `!close cancel`
 Cancel a timed close.
 
-### `!logs`
+### `!logs` 
 List previous Modmail logs with the user.
 
 ### `!block`
