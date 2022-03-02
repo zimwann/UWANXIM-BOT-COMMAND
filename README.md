@@ -1,6 +1,7 @@
 # 🤖 Commands
 
-## Table of contents
+## Table of contents 
+
 * [Inside a Modmail thread](#inside-a-modmail-thread)
 * [Anywhere on the inbox server](#anywhere-on-the-inbox-server) 
 
